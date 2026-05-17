@@ -1,0 +1,43 @@
+PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 ERA Innovations / MONKEYLAB ART S.R.L.
+
+This software and its source code are the proprietary and confidential
+property of ERA Innovations and MONKEYLAB ART S.R.L. (collectively, "the
+Owner"). All rights are reserved.
+
+NO LICENSE IS GRANTED. No part of this software — including its source
+code, compiled binaries, configuration, documentation, structure, or any
+derivative thereof — may be:
+
+  (a) reproduced, copied, or republished, in whole or in part;
+  (b) distributed, sublicensed, sold, rented, leased, or transferred;
+  (c) modified, adapted, translated, or used to create derivative works;
+  (d) reverse-engineered, decompiled, or disassembled;
+  (e) used for any commercial or non-commercial purpose;
+
+without the prior, explicit, written permission of the Owner.
+
+Access to this repository — whether through a public source-code hosting
+service, a backup, an unauthorized copy, or any other means — does NOT
+constitute a license, permission, or invitation to use this software in
+any form.
+
+Unauthorized use is a violation of applicable copyright, trade-secret,
+and intellectual-property laws and may result in civil and criminal
+penalties.
+
+For licensing inquiries, partnerships, or permission requests, contact:
+    office@erainnovations.ro
+
+THIRD-PARTY DEPENDENCIES
+------------------------
+This project consumes open-source libraries (Express, Nodemailer, etc.),
+each of which retains its own license. The proprietary terms above apply
+ONLY to the original source code and configuration created by the Owner —
+not to the upstream dependencies.
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. THE OWNER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THIS
+SOFTWARE OR ITS USE.
