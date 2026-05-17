@@ -184,8 +184,8 @@ In production, ensure: the DirectAdmin Node.js app runs as an unprivileged user;
 
 | Repo                  | Role                                         |
 | --------------------- | -------------------------------------------- |
-| **era-innov-api**     | This repo — the backend.                     |
-| **era-innov-website** | Frontend that consumes this API.             |
+| **era-innovations-api**     | This repo — the backend.                     |
+| **era-innovations-website** | Frontend that consumes this API.             |
 
 ## License
 
